@@ -1,6 +1,5 @@
 #include <iostream>
 #include <cstring>
-#include <time.h>
 #include <ctype.h>
 
 using namespace std;
